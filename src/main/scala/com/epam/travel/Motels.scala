@@ -56,7 +56,7 @@ object Motels extends Configuration with App {
 
 
   def getExchangeRates(spark: SparkSession,exchangePath: String): DataFrame = {
-    val exchnageRateFile = spark.read.schema(getExchangeRateSchema).format(Constants.CSV_FORMATTER).load(args(1))
+    val exchnageRateFile = spark.read.schema(Constants.EXCHANGE_RATES_HEADER).format(Constants.CSV_FORMATTER).load(args(1))
     exchnageRateFile.createOrReplaceTempView("exchange_rates")
     spark.sql("select * from exchange_rates").toDF()
 
