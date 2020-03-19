@@ -1,0 +1,37 @@
+[info] Packaging C:\Users\Saikiran_Chepuri\IdeaProjects\Travel-Meta\target\scala-2.11\travel-meta_2.11-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	com\epam\travel\Configuration$class.class
+[debug] 	  C:\Users\Saikiran_Chepuri\IdeaProjects\Travel-Meta\target\scala-2.11\classes\com\epam\travel\Configuration$class.class
+[debug] 	com\epam\travel\Motels$$anonfun$convert_date$1.class
+[debug] 	  C:\Users\Saikiran_Chepuri\IdeaProjects\Travel-Meta\target\scala-2.11\classes\com\epam\travel\Motels$$anonfun$convert_date$1.class
+[debug] 	com\epam\travel\Motels$.class
+[debug] 	  C:\Users\Saikiran_Chepuri\IdeaProjects\Travel-Meta\target\scala-2.11\classes\com\epam\travel\Motels$.class
+[debug] 	com\epam\travel\Travel.class
+[debug] 	  C:\Users\Saikiran_Chepuri\IdeaProjects\Travel-Meta\target\scala-2.11\classes\com\epam\travel\Travel.class
+[debug] 	com\epam
+[debug] 	  C:\Users\Saikiran_Chepuri\IdeaProjects\Travel-Meta\target\scala-2.11\classes\com\epam
+[debug] 	com\epam\travel\Travel$delayedInit$body.class
+[debug] 	  C:\Users\Saikiran_Chepuri\IdeaProjects\Travel-Meta\target\scala-2.11\classes\com\epam\travel\Travel$delayedInit$body.class
+[debug] 	com\epam\travel\Motels.class
+[debug] 	  C:\Users\Saikiran_Chepuri\IdeaProjects\Travel-Meta\target\scala-2.11\classes\com\epam\travel\Motels.class
+[debug] 	com\epam\travel\Constants.class
+[debug] 	  C:\Users\Saikiran_Chepuri\IdeaProjects\Travel-Meta\target\scala-2.11\classes\com\epam\travel\Constants.class
+[debug] 	com\epam\travel\Motels$$typecreator1$1.class
+[debug] 	  C:\Users\Saikiran_Chepuri\IdeaProjects\Travel-Meta\target\scala-2.11\classes\com\epam\travel\Motels$$typecreator1$1.class
+[debug] 	com\epam\travel\Travel$.class
+[debug] 	  C:\Users\Saikiran_Chepuri\IdeaProjects\Travel-Meta\target\scala-2.11\classes\com\epam\travel\Travel$.class
+[debug] 	com\epam\travel\Motels$delayedInit$body.class
+[debug] 	  C:\Users\Saikiran_Chepuri\IdeaProjects\Travel-Meta\target\scala-2.11\classes\com\epam\travel\Motels$delayedInit$body.class
+[debug] 	com\epam\travel\Motels$$typecreator2$1.class
+[debug] 	  C:\Users\Saikiran_Chepuri\IdeaProjects\Travel-Meta\target\scala-2.11\classes\com\epam\travel\Motels$$typecreator2$1.class
+[debug] 	com\epam\travel\Constants$$anonfun$1.class
+[debug] 	  C:\Users\Saikiran_Chepuri\IdeaProjects\Travel-Meta\target\scala-2.11\classes\com\epam\travel\Constants$$anonfun$1.class
+[debug] 	com\epam\travel
+[debug] 	  C:\Users\Saikiran_Chepuri\IdeaProjects\Travel-Meta\target\scala-2.11\classes\com\epam\travel
+[debug] 	com
+[debug] 	  C:\Users\Saikiran_Chepuri\IdeaProjects\Travel-Meta\target\scala-2.11\classes\com
+[debug] 	com\epam\travel\Configuration.class
+[debug] 	  C:\Users\Saikiran_Chepuri\IdeaProjects\Travel-Meta\target\scala-2.11\classes\com\epam\travel\Configuration.class
+[debug] 	com\epam\travel\Constants$.class
+[debug] 	  C:\Users\Saikiran_Chepuri\IdeaProjects\Travel-Meta\target\scala-2.11\classes\com\epam\travel\Constants$.class
+[info] Done packaging.
