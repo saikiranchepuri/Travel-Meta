@@ -17,7 +17,5 @@ libraryDependencies += "org.apache.spark" %% "spark-hive" % "2.1.3" % "provided"
 libraryDependencies += "org.apache.spark" %% "spark-hive-thriftserver" % "2.1.3" % "provided"
 
 
-/*libraryDependencies += "org.scalatest" % "scalatest_2.10" % "2.0" % "test"*/
-
 // https://mvnrepository.com/artifact/org.scalatest/scalatest
 libraryDependencies += "org.scalatest" %% "scalatest" % "3.2.0-SNAP7" % Test
