@@ -6,7 +6,7 @@ import org.scalatest.FunSuite
 
 class MotelsHomeRecommendationTest extends FunSuite {
 
-  val spark = SparkSession.builder().master("yarn").appName("testing-spark")
+  val spark = SparkSession.builder().master("yarn").appName("motelsRecommendation")
     .config("spark.sql.warehouse.dir","/apps/hive/warehouse").config("hive.metastore.uris","thrift://rm01.itversity.com:9083").enableHiveSupport().getOrCreate()
 
 
